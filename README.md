@@ -1,5 +1,5 @@
 # featuredboxgenesis
-Featured box for any genesis or other themes what support widget based Home. 
+Featured box for any genesis or other themes what support widget based Home. You can use it for Service box, featured text etc purposes. 
 
 Just add some CSS rule in your main stylesheet
 
